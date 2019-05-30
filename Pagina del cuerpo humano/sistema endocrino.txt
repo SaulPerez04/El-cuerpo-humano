@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<div id="title">
+<CENTER><H1>SISTEMA ENDOCRINO</H1></CENTER>
+<link rel="stylesheet"href="CSS/SISTEMA ENDOCRINO.css">  
+</div>
+</HEAD>
+<BODY>
+<div id="Main">
+<h2>El sistema endocrino,tambien llamado sistema de glandulas de secrecion interna,es el conjunto de organos y tejidos del organismo,que segregan un tipo de sustancias llamadas hormonas,que son liberados al torrente sanguineo y regulan algunas de las funciones del cuerpo.Es un sistema de señales que guarda algunas similitudes con el sistema nervioso,pero en lugar de utilizar impulsos electricos a distancia,funciona exclusivamente por medio de sustancias que se liberen a la sangre.</H2>
+<br>
+<H2>Las hormonas regulan muchas funciones en el organismo,incluyendo entre otras la velocidad de crecimiento,la funcion de los tejidos,el metabolismo,el desarollo y funcionamiento de los organos sexuales</H2>
+<br><br>
+</div>
+<div id="title2">
+<CENTER><H1>ORGANOS QUE CONFORMAN ESTE SISTEMA<H1></CENTER>
+<center><img src="E:\Pagina del cuerpo humano\Imagenes\sistema endocrino.png"></center>
+</div>
+<div id="Lista">
+<H2><li type"square">Hipotalamo</li>
+<li type"square">Hipofisis</li>
+<li type"square">Glandula Tiroide</li>
+<li type"square">Paratiroides</li>
+<li type"square">Islotes del Pancreas</li>
+<li type"square">Glandulas Suprarrenales</li>
+<li type"square">Gonodas</li>
+<li type"square">Placenta</li>
+
+</H2>
+
+
+</BODY>
+
+</HTML>

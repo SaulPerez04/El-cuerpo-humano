@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<div id="title">
+<CENTER><H1>SISTEMA CIRCULATORIO</H1></CENTER>
+<link rel="stylesheet"href="CSS/SISTEMA CIRCULATORIO.css">  
+</div>
+</HEAD>
+<BODY>
+<div id="Main">
+<H2>El Sistema Circulatorio es un sistema de transporte interno que utilizan los seres vivos para trasladar dentro de su organismo elementos nutritivos,metabolicos,oxigeno,dioxido de carbono,hormonas y otras cosas.Existe tanto en los vertebrados como en la mayoria de los invertebrados aunque su funcion tiene considerables variaciones dependiendo del tipo de animal</H2>
+<br>
+<H2>En el ser humano el sistema circulatorio esta constituido por un fluido que se llama sangre.La sangre contiene globulos rojos ricos en hemoglobina que transportan el oxigeno hasta todas las celulas del cuerpo<H2>
+<br>
+ 
+</div>
+<div id="title2">
+<H1>ORGANOS QUE CONFORMAN ESTE SISTEMA<H1>
+<center><img src="E:\Pagina del cuerpo humano\Imagenes\sistema circulatorio.jpg"></center>
+</div>
+<div id="Lista">
+<h2><li type"square">Corazon</li>
+<li type"square">Sangre</li>
+<li type"square">Globulos Blancos</li>
+<li type"square">Globulos Rojos</li>
+<li type"square">Plaquetas</li>
+<li type"square">Venas</li>
+<li type"square">Arterias</li>
+<li type"square">Capilares</li>
+</h2>
+</BODY>
+
+</HTML>
