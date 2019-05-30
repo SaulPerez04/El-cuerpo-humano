@@ -1,0 +1,25 @@
+body{
+	background-color: #CCFF00;
+	front-family: arial;
+}
+h2{
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 28px;
+	text-align: justify;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+h1{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	text-align: center;
+	white-space: normal;
+	color: #666;
+}
+h3{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	font-style: oblique;
+	color: #000;
+	margin-right: 50px;
+}

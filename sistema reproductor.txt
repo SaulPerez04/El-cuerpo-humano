@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+<div id="title">
+<CENTER><H1>SISTEMA REPRODUCTOR</H1></CENTER>
+<link rel="stylesheet"href="CSS/SISTEMA REPRODUCTOR.css">  
+</div>
+</HEAD>
+<BODY>
+<div id="Main">
+<H2>El aparato genital o sistema reproductor es el conjunto de organos cuyo funcionamiento esta relacionado con la relacion sexual,con la sexualidad,con la sintesis de las hormonas sexuales y con la miccion</h2>
+
+</div>
+<div id="title2">
+<CENTER><H1>ORGANOS QUE CONFORMAN ESTE SISTEMA<H1></CENTER>
+</div>
+<div id="Lista">
+<CENTER><H2>Aparato Masculino</h2></CENTER>
+<center><img src="E:\Pagina del cuerpo humano\Imagenes\aparato-reproductor masculino.jpg"></center>
+<h2><li type"square">Testiculos</li>
+<li type"square">Epididimo</li>
+<li type"square">Conducto Deferente</li>
+<li type"square">Vesiculas seminales</li>
+<li type"square">Conducto eyaculador</li>
+<li type"square">Prostata</li>
+<li type"square">Ureta</li>
+<li type"square">Glandulas bulbouretrales</li>
+<li type"square">Escroto</li>
+<li type"square">Pene</li>
+<br><br>
+<CENTER><H2>Aparato Femenino</h2></CENTER>
+<center><img src="E:\Pagina del cuerpo humano\Imagenes\aparato-reproductor femenino.jpg"></center>
+<li type"square">Vulva</li>
+<li type"square">Clitoris</li>
+<li type"square">Labios mayores</li>
+<li type"square">Labios menores</li>
+<li type"square">Uretra</li>
+<li type"square">Matriz</li>
+<li type"square">Ovarios</li>
+
+</H2>
+
+
+</BODY>
+
+</HTML>
